@@ -1,0 +1,6 @@
+[submodule "parking-frontend"]
+	path = parking-frontend
+	url = https://github.com/fleur101/parking-frontend
+[submodule "parking-backend"]
+	path = parking-backend
+	url = https://github.com/fleur101/parking-backend
